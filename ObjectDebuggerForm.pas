@@ -15,7 +15,7 @@ interface
 uses
   Windows, Messages, SysUtils, Classes, Graphics, Controls,
   Forms, Dialogs, StdCtrls, TypInfo, ExtCtrls, Grids,
-  Buttons, Menus, ComCtrls, Vcl.WinXCtrls, System.ImageList, Vcl.ImgList;
+  Buttons, Menus, ComCtrls, Vcl.ImgList;
 
 ////// component //////
 
